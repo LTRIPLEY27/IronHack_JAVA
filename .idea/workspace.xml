@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c794cc4-bf52-4907-becb-85f89dc6b088" name="Changes" comment="commit 3">
-      <change afterPath="$PROJECT_DIR$/src/BuzzApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OddNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OddNumber">
     <configuration name="BuzzApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuzzApp" />
       <module name="Main2" />
@@ -45,8 +44,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddNumber" />
+      <module name="Main2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddNumber" />
         <item itemvalue="Application.BuzzApp" />
       </list>
     </recent_temporary>
@@ -59,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655399119353</updated>
-      <workItem from="1655399120948" duration="2362000" />
+      <workItem from="1655399120948" duration="4744000" />
     </task>
     <task id="LOCAL-00001" summary="commit 3">
       <created>1655399196712</created>
